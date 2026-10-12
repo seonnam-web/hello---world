@@ -1,2 +1,2 @@
 # hello-world
-안녕하세요 제 이름은 김선남이고, 한양대학교 공과대학 에너지공학과에 재학 중입니다. 
+Hi! I'm Gildong Hong, a composition major at Hanyang University.
